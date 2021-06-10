@@ -1,1 +1,3 @@
-public class EmptyController{}
+public class EmptyController{
+Added the line
+}
