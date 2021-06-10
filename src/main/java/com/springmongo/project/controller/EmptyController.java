@@ -1,1 +1,4 @@
-public class EmptyController{}
+public class EmptyController{
+
+System.out.println("Hai");
+}
